@@ -5,10 +5,13 @@
 #支持指定架构
 #--platform=linux/amd64
 
-tensorflow/serving:2.15.1
-tensorflow/serving:2.14.1
+#tensorflow/serving:2.15.1
+#tensorflow/serving:2.14.1
 
-redis:6
-nginx
+#redis:6
+#nginx
 
-ubuntu:jammy --platform=linux/amd64
+#ubuntu:jammy --platform=linux/amd64
+
+ubuntu:jammy
+ubuntu:noble
