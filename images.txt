@@ -9,9 +9,10 @@
 #tensorflow/serving:2.14.1
 
 #redis:6
-nginx
+#nginx
 
 #ubuntu:jammy --platform=linux/amd64
 
 #ubuntu:jammy
 #ubuntu:noble
+alpin:3.16.3
