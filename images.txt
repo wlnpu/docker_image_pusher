@@ -15,4 +15,5 @@
 
 #ubuntu:jammy
 #ubuntu:noble
-alpine:3.16.3
+#alpine:3.16.3
+mysql
