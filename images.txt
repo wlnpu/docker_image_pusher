@@ -1,4 +1,4 @@
-#nginx
+##nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 
@@ -17,8 +17,11 @@
 #ubuntu:noble
 #alpine:3.16.3
 #mysql
-openebs/m-apiserver
-openebs/openebs-k8s-provisioner
-openebs/provisioner-localpv
-openebs/snapshot-controller
-openebs/snapshot-provisioner
+#openebs/m-apiserver
+#openebs/openebs-k8s-provisioner
+#openebs/provisioner-localpv
+#openebs/snapshot-controller
+#openebs/snapshot-provisioner
+registry.k8s.io/ingress-nginx/controller@v1.12.0
+
+
