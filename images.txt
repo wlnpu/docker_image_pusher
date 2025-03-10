@@ -16,4 +16,9 @@
 #ubuntu:jammy
 #ubuntu:noble
 #alpine:3.16.3
-mysql
+#mysql
+openebs/m-apiserver
+openebs/openebs-k8s-provisioner
+openebs/provisioner-localpv
+openebs/snapshot-controller
+openebs/snapshot-provisioner
