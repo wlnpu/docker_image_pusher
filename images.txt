@@ -17,11 +17,11 @@
 #ubuntu:noble
 #alpine:3.16.3
 #mysql
-#openebs/m-apiserver
-#openebs/openebs-k8s-provisioner
-#openebs/provisioner-localpv
-#openebs/snapshot-controller
-#openebs/snapshot-provisioner
-registry.k8s.io/ingress-nginx/controller@v1.12.0
+openebs/m-apiserver:2.12.2
+openebs/openebs-k8s-provisioner:2.12.2
+openebs/provisioner-localpv:3.5.0
+openebs/snapshot-controller:2.12.2
+openebs/snapshot-provisioner:2.12.2
+
 
 
