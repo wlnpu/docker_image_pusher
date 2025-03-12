@@ -35,3 +35,4 @@
 openebs/provisioner-localpv:4.2.0
 #openebs/linux-utils:4.1.0
 #openebs/lvm-driver:1.6.1
+bitnami/kubectl:1.25.15
