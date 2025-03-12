@@ -32,6 +32,6 @@
 #openebs/zfs-driver:2.7.1
 #registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.8.0
 #busybox
-#openebs/provisioner-localpv:4.2.0-prerelease
+openebs/provisioner-localpv:4.2.0
 #openebs/linux-utils:4.1.0
-openebs/lvm-driver:1.6.1
+#openebs/lvm-driver:1.6.1
