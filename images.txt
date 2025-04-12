@@ -37,3 +37,6 @@ openebs/provisioner-localpv:4.2.0
 #openebs/lvm-driver:1.6.1
 #bitnami/kubectl:1.25.15
 nvcr.io/nvidia/k8s-device-plugin:v0.17.1
+registry.k8s.io/nfd/node-feature-discovery:v0.17.2
+nvcr.io/nvidia/gpu-operator:v25.3.0
+nvcr.io/nvidia/cloud-native/k8s-driver-manager:v0.8.0
