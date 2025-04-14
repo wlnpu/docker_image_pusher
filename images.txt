@@ -32,7 +32,7 @@
 #openebs/zfs-driver:2.7.1
 #registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.8.0
 #busybox
-openebs/provisioner-localpv:4.2.0
+#openebs/provisioner-localpv:4.2.0
 #openebs/linux-utils:4.1.0
 #openebs/lvm-driver:1.6.1
 #bitnami/kubectl:1.25.15
@@ -40,6 +40,7 @@ openebs/provisioner-localpv:4.2.0
 #registry.k8s.io/nfd/node-feature-discovery:v0.17.2
 #nvcr.io/nvidia/gpu-operator:v25.3.0
 #nvcr.io/nvidia/cloud-native/k8s-driver-manager:v0.8.0
-nvcr.io/nvidia/cloud-native/gpu-operator-validator:v25.3.0
-nvcr.io/nvidia/k8s/container-toolkit:v1.17.5-ubuntu20.04
-nvcr.io/nvidia/k8s/dcgm-exporter:4.1.1-4.0.4-ubuntu22.04
+#nvcr.io/nvidia/cloud-native/gpu-operator-validator:v25.3.0
+#nvcr.io/nvidia/k8s/container-toolkit:v1.17.5-ubuntu20.04
+#nvcr.io/nvidia/k8s/dcgm-exporter:4.1.1-4.0.4-ubuntu22.04
+tensorflow-serving:2.15.1-gpu
